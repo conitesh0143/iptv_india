@@ -1,0 +1,137 @@
+#EXTM3U
+#EXTINF:0 tvg-id="AajTak.in" group-title="India_IPTV",Aaj tak
+http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ABPNews.uk" group-title="India_IPTV",Abp News
+https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
+#EXTINF:0 tvg-id="ext" group-title="India_IPTV",And picture
+http://103.214.202.218:8081/live/andpicture-26/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="India_IPTV",And Tv HD
+http://45.120.188.76:8080/0.ts
+#EXTINF:0 tvg-id="AnimalPlanet.in" group-title="India_IPTV",Animal planet
+http://tv.ebox.live:8080/live/animale-planet.m3u8
+#EXTINF:0 tvg-id="AnimalPlanet.in" group-title="India_IPTV",Animal planet
+http://tv.ebox.live:8080/live/animale-planet.m3u8
+#EXTINF:0 tvg-id="ext" group-title="India_IPTV",Animal planet 2
+http://tv.ebox.live:8080/live/animale-planet.m3u8
+#EXTINF:0 tvg-id="B4UMusic.in" group-title="India_IPTV",B4U Music
+http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="India_IPTV",B4U music 2
+http://103.144.200.7:8080/hls/b4umusic/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="India_IPTV",Big music
+http://103.144.200.7:8080/hls/bigmagic/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="India_IPTV",CNBC AWAZ
+https://ch.iptvmate.net/0062d390de66fa0026f07fda64beeee2.m3u8
+#EXTINF:0 tvg-id="ext" group-title="India_IPTV",Color HD
+https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="India_IPTV",DD News 2
+https://edge01.iptv.digijadoo.net/live/dd_news/chunks.m3u8
+#EXTINF:0 tvg-id="DiscoveryHistory.uk" group-title="India_IPTV",Discovery history
+http://178.132.3.162:88/Discovery_History/mono.m3u8?token=test
+#EXTINF:0 tvg-id="ext" group-title="India_IPTV",DSportsHD
+http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
+#EXTINF:0 tvg-id="FoodFood.in" group-title="India_IPTV",Food Food
+https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/chunklist_b1300000.m3u8
+#EXTINF:0 tvg-id="HBO.in" group-title="India_IPTV",HBO
+http://tv.ebox.live:8080/live/hbo.m3u8
+#EXTINF:0 tvg-id="HBO2.cz" group-title="India_IPTV",HBO 2
+http://tv.ebox.live:8080/live/hbo.m3u8
+#EXTINF:0 tvg-id="IndiaNews.in" group-title="India_IPTV",India News
+https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in.m3u8
+#EXTINF:0 tvg-id="ext" group-title="India_IPTV",Masthi
+http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(01)/index.m3u8
+#EXTINF:0 tvg-id="domkino" group-title="India_IPTV",Movie House
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
+#EXTINF:0 tvg-id="MusicIndia.in" group-title="India_IPTV",Music India
+http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="India_IPTV",NDTV in
+https://d3t34m8y8rh0vb.cloudfront.net/preview/ndtvhindi/350.m3u8
+#EXTINF:0 tvg-id="ext" group-title="India_IPTV",News 18 Lokmat
+https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8
+#EXTINF:0 tvg-id="News24.in" group-title="India_IPTV",News24
+https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live2/chunks.m3u8
+#EXTINF:0 tvg-id="SonyTVHD.in" group-title="India_IPTV",Sony HD
+http://tv.ebox.live:8080/live/sonyhd.m3u8
+#EXTINF:0 tvg-id="ext" group-title="India_IPTV",Sony India
+http://heela.ddns.net:2700/live/sonyindia/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="India_IPTV",Sony India 2
+http://heela.ddns.net:2700/live/sonyindia/index.m3u8
+#EXTINF:0 tvg-id="SonyMAX.in" group-title="India_IPTV",Sony Max
+http://tv.ebox.live:8080/live/sony-max.m3u8
+#EXTINF:0 tvg-id="SonyPIX.in" group-title="India_IPTV",Sony pix
+http://tv.ebox.live:8080/live/sony-pix.m3u8
+#EXTINF:0 tvg-id="ext" group-title="India_IPTV",Sony pix 3
+http://tv.ebox.live:8080/live/sony-pix.m3u8
+#EXTINF:0 tvg-id="SonySAB.in" group-title="India_IPTV",Sony sab
+http://tv.ebox.live:8080/live/sony-sab.m3u8
+#EXTINF:0 tvg-id="ext" group-title="India_IPTV",Sony SAB 1
+http://tv.ebox.live:8080/live/sony-sab.m3u8
+#EXTINF:0 tvg-id="ext" group-title="India_IPTV",Sony SAB HD 1
+http://ddn.amrbd.com:8081/live/sonysab/playlist.m3u8
+#EXTINF:0 tvg-id="SonySix.in" group-title="India_IPTV",Sony Six
+http://tv.ebox.live:8080/live/sonysix.m3u8
+#EXTINF:0 tvg-id="SonySix.in" group-title="India_IPTV",Sony Six
+http://tv.ebox.live:8080/live/sonysix.m3u8
+#EXTINF:0 tvg-id="SonySixHD.in" group-title="India_IPTV",Sony Six HD
+https://sony247channels.akamaized.net/hls/live/2004801/SonySIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:0 tvg-id="TenSports.in" group-title="India_IPTV",Sony ten 1
+http://tv.ebox.live:8080/live/sonyten-1.m3u8
+#EXTINF:0 tvg-id="TenAction.in" group-title="India_IPTV",Sony ten 2
+http://tv.ebox.live:8080/live/sonyten-2.m3u8
+#EXTINF:0 tvg-id="TenCricket.in" group-title="India_IPTV",Sony ten 3
+http://tv.ebox.live:8080/live/sonyten-3.m3u8
+#EXTINF:0 tvg-id="ext" group-title="India_IPTV",Sony Yay
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7027.SonyYay.in.m3u8
+#EXTINF:0 tvg-id="ext" group-title="India_IPTV",Sonyten 01
+http://tv.ebox.live:8080/live/sonyten-1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="India_IPTV",SonyTen 3 HD
+https://sony247channels.akamaized.net/hls/live/2004804/SONYTEN3HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
+#EXTINF:0 tvg-id="ext" group-title="India_IPTV",Star Gold select
+http://tv.ebox.live:8080/live/star-gold-select.m3u8
+#EXTINF:0 tvg-id="StarGoldHD.in" group-title="India_IPTV",Star movies select HD
+http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
+#EXTINF:0 tvg-id="StarPlus.in" group-title="India_IPTV",Star Plus
+http://tv.ebox.live:8080/live/star-plus.m3u8
+#EXTINF:0 tvg-id="StarPlusHD.in" group-title="India_IPTV",Star Plus HD
+https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="India_IPTV",Star sport 1
+http://tv.ebox.live:8080/live/starsports-1.m3u8
+#EXTINF:0 tvg-id="ext" group-title="India_IPTV",Star sport 1 Hindi
+http://tv.ebox.live:8080/live/starsports-1-hind.m3u8
+#EXTINF:0 tvg-id="ext" group-title="India_IPTV",Star sport Hindi
+http://tv.ebox.live:8080/live/starsports-1-hind.m3u8
+#EXTINF:0 tvg-id="StarSports3.in" group-title="India_IPTV",Star sports 1 Hindi
+http://tv.ebox.live:8080/live/starsports-1-hind.m3u8
+#EXTINF:0 tvg-id="StarSports2.in" group-title="India_IPTV",Star sports 2
+http://ddn.amrbd.com:8081/live/starsports2/playlist.m3u8
+#EXTINF:0 tvg-id="StarSportsHD2.in" group-title="India_IPTV",Star sports HD 2
+http://tv.ebox.live:8080/live/starsportshd-2.m3u8
+#EXTINF:0 tvg-id="StarSportsSelect1.in" group-title="India_IPTV",Star sports select 1
+http://tv.ebox.live:8080/live/starsportsselect-1.m3u8
+#EXTINF:0 tvg-id="StarWorld.in" group-title="India_IPTV",Star World
+https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8
+#EXTINF:0 tvg-id="StarGold.uk" group-title="India_IPTV",StarGold
+https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="India_IPTV",Ten sport 2
+http://tv.ebox.live:8080/live/ten-sports.m3u8
+#EXTINF:0 tvg-id="TenSports.in" group-title="India_IPTV",Ten sports
+http://tv.ebox.live:8080/live/ten-sports.m3u8
+#EXTINF:0 tvg-id="ZeeAction.in" group-title="India_IPTV",Zee action
+http://tv.ebox.live:8080/live/zee-action.m3u8
+#EXTINF:0 tvg-id="ZeeCafe.in" group-title="India_IPTV",Zee Cafe
+http://103.214.202.218:8081/live/zeecafe-30/playlist.m3u8
+#EXTINF:0 tvg-id="ZeeCinema.in" group-title="India_IPTV",Zee Cinema
+http://tv.ebox.live:8080/live/zee-cinema.m3u8
+#EXTINF:0 tvg-id="ZeeCinema.in" group-title="India_IPTV",Zee Cinema HD
+http://ajantatv.me/FoIder902/jee.php?c=zcinemahd&e=.m3u8
+#EXTINF:0 tvg-id="ZEETV.in" group-title="India_IPTV",Zee TV
+http://tv.ebox.live:8080/live/zee-tv.m3u8
+#EXTINF:0 tvg-id="Zing.in" group-title="India_IPTV",Zing
+https://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="India_IPTV",Sony Max 1
+http://tv.ebox.live:8080/live/sony-max.m3u8
+#EXTINF:0 tvg-id="SonyTVHD.in" group-title="India_IPTV",Sony HD
+http://tv.ebox.live:8080/live/sonyhd.m3u8
+#EXTINF:0 tvg-id="ext" group-title="India_IPTV",ABP Majha IN
+https://abp-i.akamaihd.net/hls/live/765531/abpmajha/masterhls_1564.m3u8
+#EXTINF:0 tvg-id="SaamTV.in" group-title="India_IPTV",Saam TV IN
+https://live.wmncdn.net/saam/live.stream/chunks.m3u8
