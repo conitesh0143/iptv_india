@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:0 tvg-id="AajTak.in" group-title="India_IPTV",Aaj tak
 http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="India_IPTV",ABP Majha
+https://abp-i.akamaihd.net/hls/live/765531/abpmajha/masterhls_1564.m3u8
 #EXTINF:0 tvg-id="ABPNews.uk" group-title="India_IPTV",Abp News
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
 #EXTINF:0 tvg-id="ext" group-title="India_IPTV",And picture
@@ -41,16 +43,18 @@ http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/ind
 https://d3t34m8y8rh0vb.cloudfront.net/preview/ndtvhindi/350.m3u8
 #EXTINF:0 tvg-id="ext" group-title="India_IPTV",News 18 Lokmat
 https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8
+#EXTINF:0 tvg-id="ext" group-title="India_IPTV",News 18 Lokmat
+https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8
 #EXTINF:0 tvg-id="News24.in" group-title="India_IPTV",News24
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live2/chunks.m3u8
+#EXTINF:0 tvg-id="SaamTV.in" group-title="India_IPTV",Saam TV
+https://live.wmncdn.net/saam/live.stream/chunks.m3u8
 #EXTINF:0 tvg-id="SonyTVHD.in" group-title="India_IPTV",Sony HD
 http://tv.ebox.live:8080/live/sonyhd.m3u8
 #EXTINF:0 tvg-id="SonyTVHD.in" group-title="India_IPTV",Sony HD
 http://tv.ebox.live:8080/live/sonyhd.m3u8
 #EXTINF:0 tvg-id="ext" group-title="India_IPTV",Sony India
 http://heela.ddns.net:2700/live/sonyindia/index.m3u8
-#EXTINF:0 tvg-id="SonyMAX.in" group-title="India_IPTV",Sony Max
-http://tv.ebox.live:8080/live/sony-max.m3u8
 #EXTINF:0 tvg-id="SonyMAX.in" group-title="India_IPTV",Sony Max
 http://tv.ebox.live:8080/live/sony-max.m3u8
 #EXTINF:0 tvg-id="SonyPIX.in" group-title="India_IPTV",Sony pix
@@ -93,5 +97,3 @@ http://ajantatv.me/FoIder902/jee.php?c=zcinemahd&e=.m3u8
 http://tv.ebox.live:8080/live/zee-tv.m3u8
 #EXTINF:0 tvg-id="Zing.in" group-title="India_IPTV",Zing
 https://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="India_IPTV",Saam TV
-https://live.wmncdn.net/saam/live.stream/chunks.m3u8
