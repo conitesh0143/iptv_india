@@ -11,8 +11,6 @@ http://45.120.188.76:8080/0.ts
 http://tv.ebox.live:8080/live/animale-planet.m3u8
 #EXTINF:0 tvg-id="AnimalPlanet.in" group-title="India_IPTV",Animal planet
 http://tv.ebox.live:8080/live/animale-planet.m3u8
-#EXTINF:0 tvg-id="ext" group-title="India_IPTV",Animal planet 2
-http://tv.ebox.live:8080/live/animale-planet.m3u8
 #EXTINF:0 tvg-id="B4UMusic.in" group-title="India_IPTV",B4U Music
 http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="India_IPTV",B4U music 2
@@ -31,9 +29,7 @@ http://178.132.3.162:88/Discovery_History/mono.m3u8?token=test
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 #EXTINF:0 tvg-id="FoodFood.in" group-title="India_IPTV",Food Food
 https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/chunklist_b1300000.m3u8
-#EXTINF:0 tvg-id="HBO.in" group-title="India_IPTV",HBO
-http://tv.ebox.live:8080/live/hbo.m3u8
-#EXTINF:0 tvg-id="HBO2.cz" group-title="India_IPTV",HBO 2
+#EXTINF:0 tvg-id="HBO.cz" group-title="India_IPTV",HBO 2
 http://tv.ebox.live:8080/live/hbo.m3u8
 #EXTINF:0 tvg-id="IndiaNews.in" group-title="India_IPTV",India News
 https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in.m3u8
