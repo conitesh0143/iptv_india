@@ -79,8 +79,8 @@ https://m-c066-j2apps.s.llnwi.net/hls_hd/7027.SonyYay.in.m3u8
 http://tv.ebox.live:8080/live/sonyten-1.m3u8
 #EXTINF:0 tvg-id="ext" group-title="India_IPTV",SonyTen 3 HD
 https://sony247channels.akamaized.net/hls/live/2004804/SONYTEN3HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
-#EXTINF:0 tvg-id="ext" group-title="India_IPTV",Star Gold select
-http://tv.ebox.live:8080/live/star-gold-select.m3u8
+#EXTINF:0 tvg-id="ext" group-title="India_IPTV",Star Gold
+http://tv.ebox.live:8080/live/star-gold.m3u8
 #EXTINF:0 tvg-id="StarGoldHD.in" group-title="India_IPTV",Star movies select HD
 http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
 #EXTINF:0 tvg-id="StarPlus.in" group-title="India_IPTV",Star Plus
