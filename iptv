@@ -29,8 +29,6 @@ http://178.132.3.162:88/Discovery_History/mono.m3u8?token=test
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 #EXTINF:0 tvg-id="FoodFood.in" group-title="India_IPTV",Food Food
 https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/chunklist_b1300000.m3u8
-#EXTINF:0 tvg-id="HBO.cz" group-title="India_IPTV",HBO 2
-http://tv.ebox.live:8080/live/hbo.m3u8
 #EXTINF:0 tvg-id="IndiaNews.in" group-title="India_IPTV",India News
 https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in.m3u8
 #EXTINF:0 tvg-id="ext" group-title="India_IPTV",Masthi
