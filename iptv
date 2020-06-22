@@ -4,6 +4,9 @@ http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.sm
 #EXTINF:0 tvg-id="ext" group-title="India_IPTV",ABP Majha
 https://abp-i.akamaihd.net/hls/live/765531/abpmajha/masterhls_1564.m3u8
 
+#EXTINF:0 tvg-id="ext" group-title="India_IPTV",ABP Majha2
+https://abp-i.akamaihd.net/hls/live/765531/abpmajha/master.m3u8
+
 #EXTINF:0 tvg-id="ABPNews.uk" group-title="India_IPTV",ABP News
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
 
@@ -39,10 +42,13 @@ http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(01)/index.m3u8
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
 #EXTINF:0 tvg-id="NDTVIndia.in" group-title="India_IPTV",NDTV in
 https://d3t34m8y8rh0vb.cloudfront.net/preview/ndtvhindi/350.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="India_IPTV",News 18 Lokmat
 https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8
-#EXTINF:0 tvg-id="ext" group-title="India_IPTV",News 18 Lokmat
-https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="India_IPTV",News 18 Lokmat2
+https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_3_av-p.m3u8
+
 #EXTINF:0 tvg-id="News24.in" group-title="India_IPTV",News24
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live2/chunks.m3u8
 #EXTINF:0 tvg-id="Nickelodeon.in" group-title="India_IPTV",Nick
