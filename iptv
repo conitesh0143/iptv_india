@@ -3,10 +3,8 @@
 http://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="India_IPTV",ABP Majha
 https://abp-i.akamaihd.net/hls/live/765531/abpmajha/master.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-id="ABPNews.uk" group-title="India_IPTV",ABP News
+#EXTINF:0 tvg-id="ext" group-title="India_IPTV",ABP News
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/masterhls_1564.m3u8
-
 #EXTINF:0 tvg-id="ext" group-title="India_IPTV",And picture
 http://103.214.202.218:8081/live/andpicture-26/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="India_IPTV",And Tv HD
@@ -39,10 +37,8 @@ http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(01)/index.m3u8
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
 #EXTINF:0 tvg-id="NDTVIndia.in" group-title="India_IPTV",NDTV in
 https://d3t34m8y8rh0vb.cloudfront.net/preview/ndtvhindi/350.m3u8
-
-#EXTINF:0 tvg-id="ext" group-title="India_IPTV",News 18 Lokmat
+#EXTINF:0 tvg-id="news18lokmat.in" group-title="India_IPTV",News 18 Lokmat
 https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_4_av-p.m3u8
-
 #EXTINF:0 tvg-id="News24.in" group-title="India_IPTV",News24
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live2/chunks.m3u8
 #EXTINF:0 tvg-id="Nickelodeon.in" group-title="India_IPTV",Nick
@@ -55,10 +51,8 @@ http://tv.ebox.live:8080/live/sonyhd.m3u8
 http://heela.ddns.net:2700/live/sonyindia/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="India_IPTV",Sony Marathi
 https://sony247channels.akamaized.net/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=56
-
 #EXTINF:0 tvg-id="ext" group-title="India_IPTV",Sony Max
 http://tv.ebox.live:8080/live/sony-max.m3u8
-
 #EXTINF:0 tvg-id="SonyPIX.in" group-title="India_IPTV",Sony Pix
 http://tv.ebox.live:8080/live/sony-pix.m3u8
 #EXTINF:0 tvg-id="SonySAB.in" group-title="India_IPTV",Sony SAB
