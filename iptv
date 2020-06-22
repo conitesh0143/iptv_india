@@ -27,7 +27,7 @@ https://ch.iptvmate.net/0062d390de66fa0026f07fda64beeee2.m3u8
 #EXTINF:0 tvg-id="Colors.in" group-title="India_IPTV",Colors HD
 https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 #EXTINF:0 tvg-id="DiscoveryChannel.in" group-title="India_IPTV",Discovery
-https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverychannel.smil/master.m3u8
+http://91.126.141.12:1935/live/discovery/chunklist_w1533265882.m3u8
 #EXTINF:0 tvg-id="DiscoveryHistory.uk" group-title="India_IPTV",Discovery history
 http://178.132.3.162:88/Discovery_History/mono.m3u8?token=test
 #EXTINF:0 tvg-id="FoodFood.in" group-title="India_IPTV",Food Food
