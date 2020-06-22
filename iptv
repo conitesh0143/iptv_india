@@ -99,3 +99,7 @@ http://ajantatv.me/FoIder902/jee.php?c=zcinemahd&e=.m3u8
 http://tv.ebox.live:8080/live/zee-tv.m3u8
 #EXTINF:0 tvg-id="Zing.in" group-title="India_IPTV",Zing
 https://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="India_IPTV",Sony Max
+http://tv.ebox.live:8080/live/sony-max.m3u8
+#EXTINF:0 tvg-id="SonyMAX.in" group-title="India_IPTV",Sony Max
+http://tv.ebox.live:8080/live/sony-max.m3u8
