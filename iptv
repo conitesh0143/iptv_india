@@ -19,7 +19,7 @@ http://103.199.161.254/Content/b4umusic/Live/Channel(B4Umusic)/index.m3u8
 http://103.144.200.7:8080/hls/bigmagic/index.m3u8
 #EXTINF:0 tvg-id="CNBC.us" group-title="India_IPTV",CNBC AWAZ
 https://ch.iptvmate.net/0062d390de66fa0026f07fda64beeee2.m3u8
-#EXTINF:0 tvg-id="Colors.in" group-title="India_IPTV",Colors HD
+#EXTINF:0 tvg-id="ext" group-title="India_IPTV",Colors HD
 https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 #EXTINF:0 tvg-id="DiscoveryChannel.in" group-title="India_IPTV",Discovery
 https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverychannel.smil/master.m3u8
@@ -27,11 +27,11 @@ https://live-orig-oiplay.online.go.oi.com.br/live-cdn/discoverychannel.smil/mast
 http://178.132.3.162:88/Discovery_History/mono.m3u8?token=test
 #EXTINF:0 tvg-id="FoodFood.in" group-title="India_IPTV",Food Food
 https://sonyent.pc.cdn.bitgravity.com/sonyent/live/food_food.smil/chunklist_b1300000.m3u8
-#EXTINF:0 tvg-id="HBO.in" group-title="India_IPTV",HBO
+#EXTINF:0 tvg-id="ext" group-title="India_IPTV",HBO
 http://tv.ebox.live:8080/live/hbo.m3u8
 #EXTINF:0 tvg-id="IndiaNews.in" group-title="India_IPTV",India News
 https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in.m3u8
-#EXTINF:0 tvg-id="Mastiii.in" group-title="India_IPTV",Mastiii
+#EXTINF:0 tvg-id="ext" group-title="India_IPTV",Mastiii
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(01)/index.m3u8
 #EXTINF:0 tvg-id="MusicIndia.in" group-title="India_IPTV",Music India
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
@@ -49,13 +49,11 @@ http://tv.ebox.live:8080/live/nick.m3u8
 https://live.wmncdn.net/saam/live.stream/chunks.m3u8
 #EXTINF:0 tvg-id="SonyTVHD.in" group-title="India_IPTV",Sony HD
 http://tv.ebox.live:8080/live/sonyhd.m3u8
-#EXTINF:0 tvg-id="SonyTVHD.in" group-title="India_IPTV",Sony HD
-http://tv.ebox.live:8080/live/sonyhd.m3u8
 #EXTINF:0 tvg-id="ext" group-title="India_IPTV",Sony India
 http://heela.ddns.net:2700/live/sonyindia/index.m3u8
 #EXTINF:0 tvg-id="ext" group-title="India_IPTV",Sony Marathi
 https://sony247channels.akamaized.net/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=56
-#EXTINF:0 tvg-id="SonyMAX.in" group-title="India_IPTV",Sony Max
+#EXTINF:0 tvg-id="ext" group-title="India_IPTV",Sony Max
 http://tv.ebox.live:8080/live/sony-max.m3u8
 #EXTINF:0 tvg-id="SonyPIX.in" group-title="India_IPTV",Sony Pix
 http://tv.ebox.live:8080/live/sony-pix.m3u8
@@ -93,11 +91,7 @@ https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8
 http://103.214.202.218:8081/live/zeecafe-30/playlist.m3u8
 #EXTINF:0 tvg-id="ZeeCinema.in" group-title="India_IPTV",Zee Cinema
 http://tv.ebox.live:8080/live/zee-cinema.m3u8
-#EXTINF:0 tvg-id="ZeeCinema.in" group-title="India_IPTV",Zee Cinema HD
-http://ajantatv.me/FoIder902/jee.php?c=zcinemahd&e=.m3u8
 #EXTINF:0 tvg-id="ZEETV.in" group-title="India_IPTV",Zee TV
 http://tv.ebox.live:8080/live/zee-tv.m3u8
 #EXTINF:0 tvg-id="Zing.in" group-title="India_IPTV",Zing
 https://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8
-#EXTINF:0 tvg-id="ext" group-title="India_IPTV",Sony Max
-http://tv.ebox.live:8080/live/sony-max.m3u8
