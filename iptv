@@ -44,7 +44,7 @@ http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/ind
 https://d3t34m8y8rh0vb.cloudfront.net/preview/ndtvhindi/350.m3u8
 
 #EXTINF:0 tvg-id="news18lokmat.in" group-title="India_IPTV",News 18 Lokmat
-https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8
+https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8?checkedby:iptvcat.com
 
 #EXTINF:0 tvg-id="News24.in" group-title="India_IPTV",News24
 https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live2/chunks.m3u8
