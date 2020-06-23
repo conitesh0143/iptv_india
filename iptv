@@ -140,23 +140,23 @@ http://portal.geniptv.com:8080/live/aRyIXLnjNE/1VJDREl9Y1/16038.m3u8
 http://portal.geniptv.com:8080/live/aRyIXLnjNE/1VJDREl9Y1/16040.m3u8
 
 
-#EXTINF:0 tvg-id="ext" group-title="Channels",Cartoon Neteork
+#EXTINF:0 tvg-id="ext" group-title="Channels",Cartoon Neteork New
 http://103.135.208.14/live/ibox/bd/2.m3u8
 #EXTINF:0 tvg-id="UTVAction.in" group-title="Channels",UTV Action
 http://103.135.208.14/live/ibox/bd/7.m3u8
-#EXTINF:0 tvg-id="StarSports3.in" group-title="Channels",Star Sports 3
+#EXTINF:0 tvg-id="StarSports3.in" group-title="Channels",Star Sports 3 New
 http://103.135.208.14/live/ibox/bd/8.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Manoranjan Tv
 http://103.135.208.14/live/ibox/bd/12.m3u8
 #EXTINF:0 tvg-id="Zoom.in" group-title="Channels",Zoom Tv
 http://103.135.208.14/live/ibox/bd/14.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",StarGold HD
+#EXTINF:0 tvg-id="ext" group-title="Channels",StarGold HD 2
 http://103.135.208.14/live/ibox/bd/40.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Star Plus US
 http://103.135.208.14/live/ibox/bd/41.m3u8
 #EXTINF:0 tvg-id="Colors.in" group-title="Channels",Colors HD
 http://103.135.208.14/live/ibox/bd/42.m3u8
-#EXTINF:0 tvg-id="SonyTVHD.in" group-title="Channels",Sony Tv HD
+#EXTINF:0 tvg-id="SonyTVHD.in" group-title="Channels",Sony Tv HD 2
 http://103.135.208.14/live/ibox/bd/43.m3u8
 #EXTINF:0 tvg-id="MaxTV.uk" group-title="Channels",SetMax
 http://103.135.208.14/live/ibox/bd/48.m3u8
@@ -164,7 +164,7 @@ http://103.135.208.14/live/ibox/bd/48.m3u8
 http://103.135.208.14/live/ibox/bd/45.m3u8
 #EXTINF:0 tvg-id="ZeeAction.in" group-title="Channels",Zee Action
 http://103.135.208.14/live/ibox/bd/45.m3u8
-#EXTINF:0 tvg-id="ext" group-title="Channels",And TV
+#EXTINF:0 tvg-id="ext" group-title="Channels",And TV New
 http://103.135.208.14/live/ibox/bd/47.m3u8
 #EXTINF:0 tvg-id="ZeeBollywood.us" group-title="Channels",Zee Bollywood
 http://103.135.208.14/live/ibox/bd/48.m3u8
@@ -177,7 +177,7 @@ http://103.135.208.14/live/ibox/bd/52.m3u8
 #EXTINF:0 tvg-id="StarSports1.in" group-title="Channels",Star Sports 1
 http://103.135.208.14/live/ibox/bd/53.m3u8
 #EXTINF:0 tvg-id="StarSports2.in" group-title="Channels",Star Sports 2
-http://103.135.208.14/live/ibox/bd/54.m3u8
+
 #EXTINF:0 tvg-id="ext" group-title="Channels",Ten 3 HD
 http://103.135.208.14/live/ibox/bd/55.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Ten 2 HD
@@ -230,7 +230,7 @@ http://103.135.208.14/live/ibox/bd/101.m3u8
 http://103.135.208.14/live/ibox/bd/107.m3u8
 #EXTINF:0 tvg-id="B4UMusic.in" group-title="Channels",B4U Music
 http://103.135.208.14/live/ibox/bd/108.m3u8
-#EXTINF:0 tvg-id="ZeeCinema.in" group-title="Channels",Zee Cinema
+#EXTINF:0 tvg-id="ZeeCinema.in" group-title="Channels",Zee Cinema New
 http://103.135.208.14/live/ibox/bd/110.m3u8
 #EXTINF:0 tvg-id="ComedyCentral.in" group-title="Channels",Comedy Central
 http://103.135.208.14/live/ibox/bd/114.m3u8
