@@ -72,12 +72,12 @@ http://tv.ebox.live:8080/live/sonysix.m3u8
 #EXTINF:0 tvg-id="SonySixHD.in" group-title="India_IPTV",Sony Six HD
 https://sony247channels.akamaized.net/hls/live/2004801/SonySIXHD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 
+#EXTINF:0 tvg-id="TenAction.in" group-title="India_IPTV",Sony Ten 1
+http://tv.ebox.live:8080/live/sonyten-2.m3u8
 #EXTINF:0 tvg-id="TenAction.in" group-title="India_IPTV",Sony Ten 2
 http://tv.ebox.live:8080/live/sonyten-2.m3u8
 #EXTINF:0 tvg-id="TenCricket.in" group-title="India_IPTV",Sony Ten 3
 http://tv.ebox.live:8080/live/sonyten-3.m3u8
-#EXTINF:0 tvg-id="TenCricket.in" group-title="India_IPTV",Sony Ten 3
-https://sony247channels.akamaized.net/hls/live/2004804/SONYTEN3HD/master.m3u8?hdnea=exp=1594424839~acl=/*~hmac=83f1aab290adcecd58296efe621ec7c8ed08d086c488a97c87cf62465105997c&__nn__=5606168722001&hdne
 
 #EXTINF:0 tvg-id="ext" group-title="India_IPTV",Sony Yay
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7027.SonyYay.in.m3u8
