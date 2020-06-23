@@ -103,3 +103,85 @@ http://tv.ebox.live:8080/live/zee-cinema.m3u8
 http://tv.ebox.live:8080/live/zee-tv.m3u8
 #EXTINF:0 tvg-id="Zing.in" group-title="India_IPTV",Zing
 https://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8
+
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",|IN|: sony sab hd
+http://sony247channels.akamaized.net/hls/live/2011749/SABHD/hdntl=exp=1592851771~acl=%2f*~data=hdntl~hmac=bd98ae5bcae19c0954723a39304ba290ccb3a5f3372b1d5ef202c6177ce77a90/master_664.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",|IN|: sony max sd
+http://sony247channels.akamaized.net/hls/live/2011745/SonyMaxSD/hdntl=exp=1592851771~acl=%2f*~data=hdntl~hmac=bd98ae5bcae19c0954723a39304ba290ccb3a5f3372b1d5ef202c6177ce77a90/master_664.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",|IN|: sony max hd
+http://sony247channels.akamaized.net/hls/live/2011670/SonyMaxhd/hdntl=exp=1592851771~acl=%2f*~data=hdntl~hmac=bd98ae5bcae19c0954723a39304ba290ccb3a5f3372b1d5ef202c6177ce77a90/master_664.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",|IN|: sony pix hd
+http://sony247channels.akamaized.net/hls/live/2011748/PIXHD/hdntl=exp=1592851771~acl=%2f*~data=hdntl~hmac=bd98ae5bcae19c0954723a39304ba290ccb3a5f3372b1d5ef202c6177ce77a90/master_664.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",|IN|: sony ent hd
+http://sony247channels.akamaized.net/hls/live/2011671/SETHD/hdntl=exp=1592851771~acl=%2f*~data=hdntl~hmac=bd98ae5bcae19c0954723a39304ba290ccb3a5f3372b1d5ef202c6177ce77a90/master_664.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",|IN|: sony pal
+http://sony247channels.akamaized.net/hls/live/2011741/SonyPalSD/hdntl=exp=1592851771~acl=%2f*~data=hdntl~hmac=bd98ae5bcae19c0954723a39304ba290ccb3a5f3372b1d5ef202c6177ce77a90/master_664.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",|IN|: sony marathi
+https://sony247channels.akamaized.net/hls/live/2011740/SonyMarathi/hdntl=exp=1592851771~acl=%2f*~data=hdntl~hmac=bd98ae5bcae19c0954723a39304ba290ccb3a5f3372b1d5ef202c6177ce77a90/master_664.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",|IN|: sony wah
+https://sony247channels.akamaized.net/hls/live/2011906/SonyWah/hdntl=exp=1592851771~acl=%2f*~data=hdntl~hmac=bd98ae5bcae19c0954723a39304ba290ccb3a5f3372b1d5ef202c6177ce77a90/master_664.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",|IN|: sony yeh sd
+https://sony247channels.akamaized.net/hls/live/2011746/SonyYaySD/hdntl=exp=1592851771~acl=%2f*~data=hdntl~hmac=bd98ae5bcae19c0954723a39304ba290ccb3a5f3372b1d5ef202c6177ce77a90/master_664.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",|IN|: sony athh
+http://sony247channels.akamaized.net/hls/live/2011641/SonyAathSD/hdntl=exp=1592851771~acl=%2f*~data=hdntl~hmac=bd98ae5bcae19c0954723a39304ba290ccb3a5f3372b1d5ef202c6177ce77a90/master_664.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",|IN|: zee tv hd
+http://z5ams.akamaized.net/zeetvhd/tracks-v3a1/exp=1592851408~acl=%2f*~data=hdntl~hmac=f8425d9a3f94fd632f8f38233a4ed18017171eb2769904b6555a6d9afcd6abce/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",|IN|: &tv hd
+http://z5ams.akamaized.net/andtvhd/tracks-v3a1/exp=1592851408~acl=%2f*~data=hdntl~hmac=f8425d9a3f94fd632f8f38233a4ed18017171eb2769904b6555a6d9afcd6abce/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",|IN|: &Pictures hd
+http://z5ams.akamaized.net/andpicshd/tracks-v3a1/exp=1592851408~acl=%2f*~data=hdntl~hmac=f8425d9a3f94fd632f8f38233a4ed18017171eb2769904b6555a6d9afcd6abce/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",|IN|: zee cinema hd
+http://z5ams.akamaized.net/zcinemahd/tracks-v3a1/exp=1592851408~acl=%2f*~data=hdntl~hmac=f8425d9a3f94fd632f8f38233a4ed18017171eb2769904b6555a6d9afcd6abce/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",|IN|: zee talkies hd
+http://z5ams.akamaized.net/ztalkieshd/tracks-v3a1/exp=1592851408~acl=%2f*~data=hdntl~hmac=f8425d9a3f94fd632f8f38233a4ed18017171eb2769904b6555a6d9afcd6abce/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",|IN|: zee marathi sd
+http://z5ams.akamaized.net/zmarathisd/tracks-v3a1/exp=1592851408~acl=%2f*~data=hdntl~hmac=f8425d9a3f94fd632f8f38233a4ed18017171eb2769904b6555a6d9afcd6abce/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",|IN|: zee telgu
+http://z5ams.akamaized.net/zeeteleguhd/tracks-v3a1/exp=1592851408~acl=%2f*~data=hdntl~hmac=f8425d9a3f94fd632f8f38233a4ed18017171eb2769904b6555a6d9afcd6abce/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",|IN|: zee bangla hd
+http://z5ams.akamaized.net/zeebanglahd/tracks-v3a1/exp=1592851408~acl=%2f*~data=hdntl~hmac=f8425d9a3f94fd632f8f38233a4ed18017171eb2769904b6555a6d9afcd6abce/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",|IN|: zee tamil
+http://z5ams.akamaized.net/zeetamil/tracks-v3a1/exp=1592851408~acl=%2f*~data=hdntl~hmac=f8425d9a3f94fd632f8f38233a4ed18017171eb2769904b6555a6d9afcd6abce/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",|IN|: zee keralam hd
+http://z5ams.akamaized.net/livingfoodzhd/tracks-v3a1/exp=1592851408~acl=%2f*~data=hdntl~hmac=f8425d9a3f94fd632f8f38233a4ed18017171eb2769904b6555a6d9afcd6abce/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",|IN|: star gold hd
+http://portal.geniptv.com:8080/live/aRyIXLnjNE/1VJDREl9Y1/43622.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",|IN|: zee cinema hd
+http://portal.geniptv.com:8080/live/aRyIXLnjNE/1VJDREl9Y1/17812.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",|IN|: cartoon network
+http://portal.geniptv.com:8080/live/aRyIXLnjNE/1VJDREl9Y1/2839.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",|IN|: star gold
+http://portal.geniptv.com:8080/live/aRyIXLnjNE/1VJDREl9Y1/2819.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",|IN|: colors
+http://portal.geniptv.com:8080/live/aRyIXLnjNE/1VJDREl9Y1/17897.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",|IN|: colors hd
+http://portal.geniptv.com:8080/live/aRyIXLnjNE/1VJDREl9Y1/43615.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",|IN|: nick
+http://portal.geniptv.com:8080/live/aRyIXLnjNE/1VJDREl9Y1/2833.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",|IN|: discovery kids
+http://portal.geniptv.com:8080/live/aRyIXLnjNE/1VJDREl9Y1/16024.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",|IN|: animal planet hd
+http://portal.geniptv.com:8080/live/aRyIXLnjNE/1VJDREl9Y1/17914.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",|IN|: &Pictures fhd
+http://portal.geniptv.com:8080/live/aRyIXLnjNE/1VJDREl9Y1/17905.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",|IN|: colors bangla hd
+http://portal.geniptv.com:8080/live/aRyIXLnjNE/1VJDREl9Y1/43616.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",|IN|: star plus fhd
+http://portal.geniptv.com:8080/live/aRyIXLnjNE/1VJDREl9Y1/43611.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",|IN|: nick jr.
+http://portal.geniptv.com:8080/live/aRyIXLnjNE/1VJDREl9Y1/2834.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",|IN|: star pravah fhd
+http://portal.geniptv.com:8080/live/aRyIXLnjNE/1VJDREl9Y1/4754.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",|IN|: star plus hd
+http://portal.geniptv.com:8080/live/aRyIXLnjNE/1VJDREl9Y1/1349.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",|IN|: Animal planet hindi sd
+http://portal.geniptv.com:8080/live/aRyIXLnjNE/1VJDREl9Y1/17914.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",|IN|: discovery channel hindi
+http://portal.geniptv.com:8080/live/aRyIXLnjNE/1VJDREl9Y1/17781.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",|IN|: sony sab sd
+http://portal.geniptv.com:8080/live/aRyIXLnjNE/1VJDREl9Y1/16038.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",|IN|: sony bbc earth
+http://portal.geniptv.com:8080/live/aRyIXLnjNE/1VJDREl9Y1/17895.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",|IN|: wow kidz hindi
+http://portal.geniptv.com:8080/live/aRyIXLnjNE/1VJDREl9Y1/16040.m3u8
