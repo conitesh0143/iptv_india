@@ -83,15 +83,11 @@ https://m-c066-j2apps.s.llnwi.net/hls_hd/7027.SonyYay.in.m3u8
 http://tv.ebox.live:8080/live/star-gold.m3u8
 #EXTINF:0 tvg-id="ext" group-title="India_IPTV",Star Gold 2
 https://itpolly.iptv.digijadoo.net/live/movies_ok/playlist.m3u8
-#EXTINF:0 tvg-id="StarGoldHD.in" group-title="India_IPTV",Star Movies select HD
-http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
 #EXTINF:0 tvg-id="StarPlus.in" group-title="India_IPTV",Star Plus
 http://tv.ebox.live:8080/live/star-plus.m3u8
 #EXTINF:0 tvg-id="StarPlus.in" group-title="India_IPTV",Star Plus HD
 https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
 #EXTINF:0 tvg-id="ext" group-title="India_IPTV",Star Sport 1 Hindi
-http://tv.ebox.live:8080/live/starsports-1-hind.m3u8
-#EXTINF:0 tvg-id="ext" group-title="India_IPTV",Star sport Hindi
 http://tv.ebox.live:8080/live/starsports-1-hind.m3u8
 #EXTINF:0 tvg-id="StarWorld.in" group-title="India_IPTV",Star World
 https://itpolly.iptv.digijadoo.net/live/star_world/chunks.m3u8
@@ -108,7 +104,7 @@ https://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8
 http://45.120.188.217:80/0.ts
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",|IN|: sony sab hd
-http://sony247channels.akamaized.net/hls/live/2011749/SABHD/hdntl=exp=1592851771~acl=%2f*~data=hdntl~hmac=bd98ae5bcae19c0954723a39304ba290ccb3a5f3372b1d5ef202c6177ce77a90/master_664.m3u8
+http://103.135.208.14/live/ibox/bd/45.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",|IN|: zee talkies hd
 http://vlc.news:9000/live/sharpstar_955951/MG4z24H0/92011.m3u8?checkedby:iptvcat.com
@@ -144,12 +140,10 @@ http://portal.geniptv.com:8080/live/aRyIXLnjNE/1VJDREl9Y1/16040.m3u8
 http://103.135.208.14/live/ibox/bd/2.m3u8
 #EXTINF:0 tvg-id="UTVAction.in" group-title="Channels",UTV Action
 http://103.135.208.14/live/ibox/bd/7.m3u8
-#EXTINF:0 tvg-id="StarSports3.in" group-title="Channels",Star Sports 3 New
+#EXTINF:0 tvg-id="StarSports3.in" group-title="Channels",Star Sports 3
 http://103.135.208.14/live/ibox/bd/8.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Manoranjan Tv
 http://103.135.208.14/live/ibox/bd/12.m3u8
-#EXTINF:0 tvg-id="Zoom.in" group-title="Channels",Zoom Tv 2
-http://103.135.208.14/live/ibox/bd/14.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",StarGold HD 2
 http://103.135.208.14/live/ibox/bd/40.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Star Plus US 2
@@ -158,20 +152,14 @@ http://103.135.208.14/live/ibox/bd/41.m3u8
 http://103.135.208.14/live/ibox/bd/42.m3u8
 #EXTINF:0 tvg-id="SonyTVHD.in" group-title="Channels",Sony Tv HD 2
 http://103.135.208.14/live/ibox/bd/43.m3u8
-#EXTINF:0 tvg-id="MaxTV.uk" group-title="Channels",SetMax New
-http://103.135.208.14/live/ibox/bd/48.m3u8
 #EXTINF:0 tvg-id="SabTV.uk" group-title="Channels",SAB TV
 http://103.135.208.14/live/ibox/bd/45.m3u8
 #EXTINF:0 tvg-id="ZeeAction.in" group-title="Channels",Zee Action
 http://103.135.208.14/live/ibox/bd/45.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",And TV New
 http://103.135.208.14/live/ibox/bd/47.m3u8
-#EXTINF:0 tvg-id="ZeeBollywood.us" group-title="Channels",Zee Bollywood
-http://103.135.208.14/live/ibox/bd/48.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Star Bharat US
 http://103.135.208.14/live/ibox/bd/50.m3u8
-#EXTINF:0 tvg-id="ZEETV.in" group-title="Channels",Zee TV New
-http://103.135.208.14/live/ibox/bd/51.m3u8
 #EXTINF:0 tvg-id="TimesNow.in" group-title="Channels",Times Now
 http://103.135.208.14/live/ibox/bd/52.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Ten 3 HD
@@ -198,16 +186,10 @@ http://103.135.208.14/live/ibox/bd/97.m3u8
 http://103.135.208.14/live/ibox/bd/98.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Star Gold New 2
 http://103.135.208.14/live/ibox/bd/99.m3u8
-#EXTINF:0 tvg-id="StarMoviesHD.in" group-title="Channels",Star Movies HD
-http://103.135.208.14/live/ibox/bd/101.m3u8
-#EXTINF:0 tvg-id="MusicIndia.in" group-title="Channels",Music India 2
-http://103.135.208.14/live/ibox/bd/101.m3u8
 #EXTINF:0 tvg-id="SonyMAX.in" group-title="Channels",Sony Max HD 2
 http://103.135.208.14/live/ibox/bd/107.m3u8
 #EXTINF:0 tvg-id="B4UMusic.in" group-title="Channels",B4U Music 2
 http://103.135.208.14/live/ibox/bd/108.m3u8
-#EXTINF:0 tvg-id="ZeeCinema.in" group-title="Channels",Zee Cinema New
-http://103.135.208.14/live/ibox/bd/110.m3u8
 #EXTINF:0 tvg-id="ComedyCentral.in" group-title="Channels",Comedy Central
 http://103.135.208.14/live/ibox/bd/114.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",Colors US
