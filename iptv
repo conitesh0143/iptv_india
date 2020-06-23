@@ -106,6 +106,8 @@ http://tv.ebox.live:8080/live/zee-tv.m3u8
 #EXTINF:0 tvg-id="Zing.in" group-title="India_IPTV",Zing
 https://itpolly.iptv.digijadoo.net/live/zing/chunks.m3u8
 
+#EXTINF:0 tvg-id="ext" group-title="India_IPTV",Color Marathi
+http://45.120.188.217:80/0.ts
 
 #EXTINF:0 tvg-id="ext" group-title="Channels",|IN|: sony sab hd
 http://sony247channels.akamaized.net/hls/live/2011749/SABHD/hdntl=exp=1592851771~acl=%2f*~data=hdntl~hmac=bd98ae5bcae19c0954723a39304ba290ccb3a5f3372b1d5ef202c6177ce77a90/master_664.m3u8
