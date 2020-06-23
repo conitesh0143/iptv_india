@@ -138,3 +138,113 @@ http://portal.geniptv.com:8080/live/aRyIXLnjNE/1VJDREl9Y1/17781.m3u8
 http://portal.geniptv.com:8080/live/aRyIXLnjNE/1VJDREl9Y1/16038.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Channels",|IN|: wow kidz hindi
 http://portal.geniptv.com:8080/live/aRyIXLnjNE/1VJDREl9Y1/16040.m3u8
+
+
+#EXTINF:0 tvg-id="ext" group-title="Channels",Cartoon Neteork
+http://103.135.208.14/live/ibox/bd/2.m3u8
+#EXTINF:0 tvg-id="UTVAction.in" group-title="Channels",UTV Action
+http://103.135.208.14/live/ibox/bd/7.m3u8
+#EXTINF:0 tvg-id="StarSports3.in" group-title="Channels",Star Sports 3
+http://103.135.208.14/live/ibox/bd/8.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Manoranjan Tv
+http://103.135.208.14/live/ibox/bd/12.m3u8
+#EXTINF:0 tvg-id="Zoom.in" group-title="Channels",Zoom Tv
+http://103.135.208.14/live/ibox/bd/14.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",StarGold HD
+http://103.135.208.14/live/ibox/bd/40.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Star Plus US
+http://103.135.208.14/live/ibox/bd/41.m3u8
+#EXTINF:0 tvg-id="Colors.in" group-title="Channels",Colors HD
+http://103.135.208.14/live/ibox/bd/42.m3u8
+#EXTINF:0 tvg-id="SonyTVHD.in" group-title="Channels",Sony Tv HD
+http://103.135.208.14/live/ibox/bd/43.m3u8
+#EXTINF:0 tvg-id="MaxTV.uk" group-title="Channels",SetMax
+http://103.135.208.14/live/ibox/bd/48.m3u8
+#EXTINF:0 tvg-id="SabTV.uk" group-title="Channels",SAB TV
+http://103.135.208.14/live/ibox/bd/45.m3u8
+#EXTINF:0 tvg-id="ZeeAction.in" group-title="Channels",Zee Action
+http://103.135.208.14/live/ibox/bd/45.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",And TV
+http://103.135.208.14/live/ibox/bd/47.m3u8
+#EXTINF:0 tvg-id="ZeeBollywood.us" group-title="Channels",Zee Bollywood
+http://103.135.208.14/live/ibox/bd/48.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Star Bharat US
+http://103.135.208.14/live/ibox/bd/50.m3u8
+#EXTINF:0 tvg-id="ZEETV.in" group-title="Channels",Zee TV
+http://103.135.208.14/live/ibox/bd/51.m3u8
+#EXTINF:0 tvg-id="TimesNow.in" group-title="Channels",Times Now
+http://103.135.208.14/live/ibox/bd/52.m3u8
+#EXTINF:0 tvg-id="StarSports1.in" group-title="Channels",Star Sports 1
+http://103.135.208.14/live/ibox/bd/53.m3u8
+#EXTINF:0 tvg-id="StarSports2.in" group-title="Channels",Star Sports 2
+http://103.135.208.14/live/ibox/bd/54.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ten 3 HD
+http://103.135.208.14/live/ibox/bd/55.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ten 2 HD
+http://103.135.208.14/live/ibox/bd/56.m3u8
+#EXTINF:0 tvg-id="TLC.uk" group-title="Channels",TLC HD
+http://103.135.208.14/live/ibox/bd/62.m3u8
+#EXTINF:0 tvg-id="StarWorld.in" group-title="Channels",Star World
+http://103.135.208.14/live/ibox/bd/66.m3u8
+#EXTINF:0 tvg-id="SonyPIX.in" group-title="Channels",Sony Pix HD
+http://103.135.208.14/live/ibox/bd/67.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",MNX
+http://103.135.208.14/live/ibox/bd/70.m3u8
+#EXTINF:0 tvg-id="MoviesNow.in" group-title="Channels",Movies Now
+http://103.135.208.14/live/ibox/bd/71.m3u8
+#EXTINF:0 tvg-id="RomedyNow.in" group-title="Channels",Romedy Now
+http://103.135.208.14/live/ibox/bd/72.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Fyi Tv
+http://103.135.208.14/live/ibox/bd/73.m3u8
+#EXTINF:0 tvg-id="StarSportsHD1.in" group-title="Channels",Star Sports HD 1
+http://103.135.208.14/live/ibox/bd/77.m3u8
+#EXTINF:0 tvg-id="StarSportsHD2.in" group-title="Channels",Star Sports HD 2
+http://103.135.208.14/live/ibox/bd/78.m3u8
+#EXTINF:0 tvg-id="TenSports.in" group-title="Channels",Sony Ten 1
+http://103.135.208.14/live/ibox/bd/79.m3u8
+#EXTINF:0 tvg-id="StarSportsSelectHD1.in" group-title="Channels",Star Sports Select 1 HD
+http://103.135.208.14/live/ibox/bd/82.m3u8
+#EXTINF:0 tvg-id="StarSportsSelectHD2.in" group-title="Channels",Star Sports Select 2 HD
+http://103.135.208.14/live/ibox/bd/83.m3u8
+#EXTINF:0 tvg-id="9XM.in" group-title="Channels",9XM
+http://103.135.208.14/live/ibox/bd/90.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",History Tv 18 HD
+http://103.135.208.14/live/ibox/bd/91.m3u8
+#EXTINF:0 tvg-id="AnimalPlanet.in" group-title="Channels",Animal Planet
+http://103.135.208.14/live/ibox/bd/93.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",And Pictures  HD
+http://103.135.208.14/live/ibox/bd/94.m3u8
+#EXTINF:0 tvg-id="SonySix.in" group-title="Channels",Sony Six
+http://103.135.208.14/live/ibox/bd/96.m3u8
+#EXTINF:0 tvg-id="SonyESPN.in" group-title="Channels",Sony ESPN
+http://103.135.208.14/live/ibox/bd/97.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Sony YaY
+http://103.135.208.14/live/ibox/bd/98.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Star Gold 2
+http://103.135.208.14/live/ibox/bd/99.m3u8
+#EXTINF:0 tvg-id="StarMoviesHD.in" group-title="Channels",Star Movies HD
+http://103.135.208.14/live/ibox/bd/101.m3u8
+#EXTINF:0 tvg-id="MusicIndia.in" group-title="Channels",Music India
+http://103.135.208.14/live/ibox/bd/101.m3u8
+#EXTINF:0 tvg-id="SonyMAX.in" group-title="Channels",Sony Max HD
+http://103.135.208.14/live/ibox/bd/107.m3u8
+#EXTINF:0 tvg-id="B4UMusic.in" group-title="Channels",B4U Music
+http://103.135.208.14/live/ibox/bd/108.m3u8
+#EXTINF:0 tvg-id="ZeeCinema.in" group-title="Channels",Zee Cinema
+http://103.135.208.14/live/ibox/bd/110.m3u8
+#EXTINF:0 tvg-id="ComedyCentral.in" group-title="Channels",Comedy Central
+http://103.135.208.14/live/ibox/bd/114.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Colors US
+http://103.135.208.14/live/ibox/bd/115.m3u8
+#EXTINF:0 tvg-id="Zing.uk" group-title="Channels",Zing TV
+http://103.135.208.14/live/ibox/bd/116.m3u8
+#EXTINF:0 tvg-id="CBeebies.uk" group-title="Channels",Cbeebies
+http://103.135.208.14/live/ibox/bd/117.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",And Flix HD
+http://103.135.208.14/live/ibox/bd/125.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Colors Rishtey
+http://103.135.208.14/live/ibox/bd/128.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Star Gold US
+http://103.135.208.14/live/ibox/bd/129.m3u8
+#EXTINF:0 tvg-id="MTVBeats.uk" group-title="Channels",MTV Beats
+http://103.135.208.14/live/ibox/bd/129.m3u8
